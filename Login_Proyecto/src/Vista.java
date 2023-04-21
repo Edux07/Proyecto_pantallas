@@ -85,8 +85,7 @@ public class Vista extends JFrame{
 		Image img2 = new ImageIcon(Vista.class.getResource("/Images/LafincaTOP.png")).getImage();
 		ImageIcon icon2 = new ImageIcon(img2.getScaledInstance(50, 50, Image.SCALE_SMOOTH));
 //		lblIcono_1 = new JLabel(new ImageIcon(Vista.class.getResource("/Images/LafincaTOP.png")));
-		lblIcono_1.setBounds(-10, 0, 97, 64);
-		panel.add(lblIcono_1);
+	
 
 		// JLabel lblNewLabel_3 = new JLabel("");
 		// lblNewLabel_3.setIcon(new
